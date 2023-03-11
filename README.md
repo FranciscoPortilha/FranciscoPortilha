@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my personal website
+- ⚡ Fun fact: I study Econometrics and Economics 
 
 <!--
 **FrPortilha/FrPortilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
