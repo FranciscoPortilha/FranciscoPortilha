@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my personal website
-- ⚡ I'm doing a dobule degree in Econometrics and Economics.
+- ⚡ I'm doing a double bachelor in Econometrics and Economics in Rotterdam.
 
 <!--
 **FrPortilha/FrPortilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
