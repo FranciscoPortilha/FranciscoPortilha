@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my personal website
 - ⚡ I'm doing a double bachelor in Econometrics and Economics in Rotterdam.
 
 <!--
