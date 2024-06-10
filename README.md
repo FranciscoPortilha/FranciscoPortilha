@@ -1,6 +1,6 @@
 ### Hi there 👋
 - ⚡ Double BSc in Econometrics and Economics in Rotterdam.
-- 🌱 Data analist in sustainable finance.
+- 🌱 Data Analist in Sustainable Finance.
   
 <!--
 **FrPortilha/FrPortilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
