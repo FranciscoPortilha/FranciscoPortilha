@@ -1,6 +1,7 @@
 ### Hi there 👋
-- ⚡ I'm doing a double bachelor in Econometrics and Economics in Rotterdam.
-
+- ⚡ Double BSc in Econometrics and Economics in Rotterdam.
+- 🌱 Data analist in sustainable finance.
+  
 <!--
 **FrPortilha/FrPortilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
