@@ -1,7 +1,6 @@
 ### Hi there 👋
-- ⚡ Double BSc in Econometrics and Economics in Rotterdam.
-- 🌱 Data Analyst in Sustainable Finance.
-  
+- 🌱 Data Science Officer at the Joint Impact Model Foundation.
+- ⚡ MSc Econometrics | Double BSc in Econometrics and Economics at Erasmus School of Economics.
 <!--
 **FrPortilha/FrPortilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
